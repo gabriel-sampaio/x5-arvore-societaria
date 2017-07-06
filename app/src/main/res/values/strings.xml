@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Arvore Societaria</string>
+    <string name="title_activity_main">Menu Principal</string>
+    <string name="title_activity_cadastraremp">Cadastrar Empresa</string>
+    <string name="title_activity_realizarinv">Realizar Investimento</string>
+    <string name="title_activity_login">Árvore Societária</string>
+    <string name="inbox_string">Ver Arvore</string>
+    <string name="starred_string">Manter Empresas</string>
+    <string name="sent_mail_string">Manter Investimentos</string>
+    <string name="openDrawer">Open Drawer </string>
+    <string name="closeDrawer">Close Drawer </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cadastrar">Cadastrar Empresa</string>
+</resources>
